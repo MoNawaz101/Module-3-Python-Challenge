@@ -19,6 +19,7 @@
 #                               o the changes in profit/losses over the entire period
 #                               o the greatest increase in profits (date and amount) over the entire period
 #                               o the greatest decrease in profits (date and amount) over the entire period
+#                           The analysis is then written to the terminal and also a datafile 
 #
 #       PyBank/Resources
 #              File:    budget_data.csv
